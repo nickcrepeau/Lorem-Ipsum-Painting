@@ -3,10 +3,10 @@ Lorem Ipsum Painting is a fictional company created in Dreamweaver for a school 
 The program includes PHP functionality and interfaces with an SQL database to store and retrieve customer information.
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/8c8ed769-a1ec-4528-b78f-e66ac2bbb72a)" width="600">
-<img src="https://github.com/user-attachments/assets/504f1880-6aba-4ae5-8b1d-db7b4bb894d2" width="600">
-<img src="https://github.com/user-attachments/assets/37302697-a18f-4def-9cf4-055632c3c121" width="600">
-<img src="https://github.com/user-attachments/assets/3afb9b84-3143-40d9-bc2b-69122ce2c32d" width="600">
-<img src="https://github.com/user-attachments/assets/40bdd25a-9272-4d01-9c0f-652320f542ec" width="600">
-<img src="https://github.com/user-attachments/assets/84fea54c-1265-4ed8-8386-eb4854d9c3fc" width="600">
-<img src="https://github.com/user-attachments/assets/981e91e8-25d7-4e25-86cd-31765f7a60d1" width="600">
+<img src="https://github.com/user-attachments/assets/3bae360a-d7d9-43c9-bf97-f9ea60eb2ccf)" width="600">
+<img src="https://github.com/user-attachments/assets/41007fdb-c876-4f77-a2b5-d57cf269cacc)" width="600">
+<img src="https://github.com/user-attachments/assets/a60d1c6e-e025-4bcc-ac6f-6441db0f3438)" width="600">
+<img src="https://github.com/user-attachments/assets/035e2571-8a50-48ce-8989-8556ba9e4ee7)" width="600">
+<img src="https://github.com/user-attachments/assets/bef9d479-c757-45cf-b3d4-3b98fa65fd1f" width="600">
+<img src="https://github.com/user-attachments/assets/56c81573-d2bb-42f7-b884-0435669046dd)" width="600">
+<img src="https://github.com/user-attachments/assets/919e56be-fb7d-48d4-9139-01809fedbdb6)" width="600">
