@@ -1,0 +1,171 @@
+body{
+	background-image: url("images/background.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+header{
+	overflow: hidden;
+}
+
+#top-header{
+	text-align: center;
+	height: 150px;
+}
+
+#logo{
+	float: left;
+	padding: none;
+	margin: none;
+	height: 80px;
+	width: 30%;
+}
+
+#logo img{
+	width: 100%;
+	float: left;
+	padding: 20px 10px;
+}
+
+#big-logo{
+	text-align: center;
+	padding: 25px;
+}
+
+#welcome{
+	padding: 100px;
+	font-size: 52px;
+	font-weight: 600;
+	line-height: 1.5;
+	color: #FFFFFF;
+	text-shadow: 3px 0 black, -3px 0 black, 0 3px black, 0 -3px black, 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black, 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+	text-align: center;
+}
+
+#about-us{
+	padding: 120px;
+	font-size: 40px;
+	font-weight: 600;
+	line-height: 2;
+	color: #FFFFFF;
+	text-shadow: 3px 0 black, -3px 0 black, 0 3px black, 0 -3px black, 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black, 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+	text-align: center;
+}
+
+#contact-header{
+	padding: 10px;
+	font-size: 52px;
+	font-weight: 600;
+	line-height: 2;
+	color: #FFFFFF;
+	text-shadow: 3px 0 black, -3px 0 black, 0 3px black, 0 -3px black, 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black, 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+	text-align: center;
+}
+
+#contact-form{
+	padding: 50px;
+	font-size: 32px;
+	font-weight: 600;
+	line-height: 2;
+	color: #FFFFFF;
+	text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black, 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+}
+
+#careers-header{
+	padding: 10px;
+	font-size: 52px;
+	font-weight: 600;
+	line-height: 2;
+	color: #FFFFFF;
+	text-shadow: 3px 0 black, -3px 0 black, 0 3px black, 0 -3px black, 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black, 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+	text-align: center;
+}
+
+#careers-form{
+	padding: 50px;
+	font-size: 32px;
+	font-weight: 600;
+	line-height: 2;
+	color: #FFFFFF;
+	text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black, 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+}
+
+#database-header{
+	padding: 10px;
+	font-size: 52px;
+	font-weight: 600;
+	line-height: 2;
+	color: #FFFFFF;
+	text-shadow: 3px 0 black, -3px 0 black, 0 3px black, 0 -3px black, 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black, 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+	text-align: center;
+}
+
+#database{
+	padding: 50px;
+	font-size: 32px;
+	font-weight: 600;
+	line-height: 2;
+	color: #FFFFFF;
+	text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black, 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+}
+
+#gallery-header{
+	padding: 10px;
+	font-size: 52px;
+	font-weight: 600;
+	line-height: 2;
+	color: #FFFFFF;
+	text-shadow: 3px 0 black, -3px 0 black, 0 3px black, 0 -3px black, 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black, 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+	text-align: center;
+}
+
+#gallery img{
+	padding: 40px;
+	width: 1200px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menu{
+	float: right;
+	width: 70%;
+	height: 100%;
+	margin: none;
+}
+	
+#menu ul{
+	text-align: center;
+	float: right;
+	margin: none;
+	background: #084173;
+}
+	
+#menu li{
+	display: inline-block;
+	padding: none;
+	margin: none;
+}
+	
+#menu li a, #menu li span{
+	display: inline-block;
+	padding: 0em 1.5em;
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: 600;
+	text-transform: uppercase;
+	line-height: 80px;
+}
+	
+#menu li a{
+	color: #FFFFFF;
+}
+	
+#menu li:hover a, #menu li span{
+	background: #FFF;
+	color: #003A6C;
+	border-left: 1px solid #003A6C;
+	text-decoration: none;
+}
