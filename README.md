@@ -1,5 +1,5 @@
 # Lorem Ipsum Painting
-HTML Website for a fictional painting company. The website includes PHP functionality to store and retrieve customer information from an SQL database.  
+HTML Website for a fictional painting company. The website includes PHP functionality to store and retrieve customer information from an SQL database. All assets created by myself for a 2022 college class. I prioritized function over aesthetic.
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/10dc8d64-0376-45e2-a545-6f85fe126e42" width="800">  
