@@ -1,4 +1,4 @@
-# Lorem Ipsum Painting
+# Lorem Ipsum Painting Website
 HTML Website for a fictional painting company. The website includes PHP functionality to store and retrieve customer information from an SQL database. All assets created by myself for a 2022 college class.
 
 ## Screenshots
