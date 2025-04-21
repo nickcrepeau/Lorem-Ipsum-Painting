@@ -1,6 +1,5 @@
 # Lorem Ipsum Painting
-Lorem Ipsum Painting is a fictional company created in Dreamweaver for a school project in 2022 for a class at Florida Insistute of Technology.  
-The program includes PHP functionality and interfaces with an SQL database to store and retrieve customer information.  
+HTML Website for a fictional painting company. The website includes PHP functionality to store and retrieve customer information from an SQL database.  
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/10dc8d64-0376-45e2-a545-6f85fe126e42)" width="800">  
